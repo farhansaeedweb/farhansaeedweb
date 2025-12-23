@@ -59,6 +59,5 @@ I build scalable, responsive web applications with modern technologies.
 <h2 align="left">📌 Note</h2>
 
 <p align="left">
-This profile represents my professional work as a Full-Stack Web Developer.  
-New projects and technologies are added continuously.
+This profile represents my professional work as a Full-Stack Web Developer. New projects and technologies are added continuously.
 </p>
